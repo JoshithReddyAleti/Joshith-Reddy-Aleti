@@ -1,4 +1,4 @@
-# Joshith-Reddy-Aleti
+
 # Joshith Reddy Aleti
 
 👨‍🎓 I am a rising junior at Georgia State University, pursuing a Bachelor of Science in Computer Science and Entrepreneurship, with a GPA of 3.74. My studies encompass foundational courses like Data Structures and Algorithms, along with advanced topics in Web Development and Software Engineering. 📚
